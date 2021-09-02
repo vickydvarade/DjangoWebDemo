@@ -74,6 +74,11 @@ In the code block above, you can see the folder structure that the startproject 
 finmarka/ :- is your top-level project folder.
 finmarka/finmarka/ :- is your lower-level folder that represents your management app.
 manage.py :- is a Python file that serves as the command center of your project. It does the same as the django-admin command-line utility.
+
+Run below command to start django server:
+```
+python3 manage.py runserver
+```
  
 When you’re ready, you can move on to create a Django app as a lower-level unit of your new web application.
 
@@ -114,10 +119,6 @@ scrap/
 └── manage.py
 ```
 
-Run below command to start django server:
-```
-python3 manage.py runserver
-```
 At this point, you’ve finished setting up for your Django web application, and you can start implementing your ideas.
 
 
