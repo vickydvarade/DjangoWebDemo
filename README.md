@@ -9,7 +9,7 @@ Before you can start to build the individual functionality of a new Django web a
 5. Start a Django app
 
 
-You can check above first two requirements are install on your machine by running below command in termianl.
+You can check above first two requirements are install on your machine by running below command in terminal.
 
 ```
 python3 --version
