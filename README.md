@@ -114,6 +114,10 @@ scrap/
 └── manage.py
 ```
 
+Run below command to start django server:
+```
+python3 manage.py runserver
+```
 At this point, you’ve finished setting up for your Django web application, and you can start implementing your ideas.
 
 
