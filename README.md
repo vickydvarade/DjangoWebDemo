@@ -1,4 +1,5 @@
 #DOCKER DEMO
+
 Before you can start to build the individual functionality of a new Django web application, you always need to complete a couple of setup steps on your machine.
 
 1. Install python3 
