@@ -1,4 +1,4 @@
-#DOCKER DEMO
+# DJANGO DEMO
 
 Before you can start to build the individual functionality of a new Django web application, you always need to complete a couple of setup steps on your machine.
 
@@ -16,7 +16,7 @@ python3 --version
 virtualenv --version
 ```
 
-#Let's start with Django 
+## Let's start with Django 
 
 Go to your terminal create a directory & locate to that directory.
 ```
@@ -29,7 +29,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-#Install Django
+## Install Django
 ```
 python3 pip install django
 ```
@@ -39,7 +39,7 @@ check django version
 python3 -m pip django --version
 ```
 
-#Set up a Django project
+## Set up a Django project
 
 With your virtual environment set up and activated and Django installed, you can now create a project by executing startproject command:
 
@@ -75,7 +75,7 @@ manage.py :- is a Python file that serves as the command center of your project.
  
 When you’re ready, you can move on to create a Django app as a lower-level unit of your new web application.
 
-#Start a Django App
+## Start a Django App
 Now, you’ll create a Django App by executing the 'startapp' command through the manage.py file:
 ```
 python manage.py startapp <appname>
