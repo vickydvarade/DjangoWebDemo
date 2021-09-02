@@ -30,11 +30,13 @@ source venv/bin/activate
 ```
 
 ## Install Django
+
+Install Django with below command:
 ```
 python3 pip install django
 ```
 
-check django version 
+you can check django version:
 ```
 python3 -m pip django --version
 ```
